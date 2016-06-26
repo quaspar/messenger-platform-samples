@@ -6,7 +6,7 @@
  * LICENSE file in the root directory of this source tree.
  *
  */
-
+// bla bla
 /* jshint node: true, devel: true */
 'use strict';
 
